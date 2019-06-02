@@ -1,0 +1,19 @@
+{
+  "name": "umlbuilder",
+  "version": "0.0.1",
+  "description": "UML Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldl5007/umlbuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldl5007/umlbuilder/issues"
+  },
+  "homepage": "https://github.com/ldl5007/umlbuilder#readme"
+}
